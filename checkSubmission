@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Generate random integer out of 0 and 1
+shuf -i 0-1 -n 1
